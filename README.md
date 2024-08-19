@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adarsh and I'm a Koder, from 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Adarsh and I'm a geek, from 🇮🇳</h2>
 
 ###
 
